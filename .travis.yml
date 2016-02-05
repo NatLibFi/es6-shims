@@ -3,3 +3,6 @@ node_js: "0.12"
 script: npm run travisci
 after_script:
   - codeclimate-test-reporter < coverage/lcov.info
+addons:
+    code_climate:
+        repo_token: a87fd7518ce95e34e0528b04877ccdb8b5ef2147f026c6f45ebf4cb84c02f739
