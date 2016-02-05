@@ -60,5 +60,9 @@ function factory(chai, arrayFind)
 	    return element === 2;
 	})).to.equal(2);
     });
+
+    it('Should return undefined because the element was not found', function() {
+	expect(arrayFind([], function() {})).to.be.an('undefined');
+    });
     
 }

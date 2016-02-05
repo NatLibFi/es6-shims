@@ -61,4 +61,8 @@ function factory(chai, arrayFindIndex)
 	})).to.equal(1);
     });
 
+    it('Should return -1 because the element was not found', function() {
+	expect(arrayFindIndex([], function() {})).to.equal(-1);
+    });
+
 }
