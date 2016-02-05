@@ -78,5 +78,5 @@ define(['es6-shims/lib/shims/array'], function(shim_array) {
 ## License and copyright
 
 Copyright (c) 2016 **University Of Helsinki (The National Library Of Finland)**
-a
+
 This project's source code is licensed under the terms of **GNU General Public License Version 3**.
