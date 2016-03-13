@@ -7,8 +7,9 @@ If you are looking for ES6 polyfills check out [es6-polyfills](https://github.co
 ## List of shims
 
 - **Array**
-  - *Array.find* 
-  - *Array.findIndex*
+  - *Array.prototype.find* 
+  - *Array.prototype.findIndex*
+  - *Array.prototype.fill*
 
 ## Installation
 
