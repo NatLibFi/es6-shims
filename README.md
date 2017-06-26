@@ -9,7 +9,6 @@ If you are looking for ES6 polyfills check out [es6-polyfills](https://github.co
 - **Array**
   - *Array.prototype.find* 
   - *Array.prototype.findIndex*
-  - *Array.prototype.fill*
 
 ## Installation
 

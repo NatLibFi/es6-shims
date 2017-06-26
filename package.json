@@ -13,8 +13,7 @@
 	"harmony",
 	"array",
 	"find",
-	"findindex",
-	"fill"
+	"findindex"
     ],
     "homepage": "https://github.com/NatLibFi/es6-shims",
     "bugs": {
