@@ -1,5 +1,5 @@
 {
-    "name": "es6-shims",
+    "name": "@natlibfi/es6-shims",
     "description": "ES6 shims that use native implementation if available",
     "author": {
 	"name": "The National Library of Finland"
@@ -24,7 +24,7 @@
 	"url": "git@github.com:NatLibFi/es6-shims.git"
     },
     "license": " LGPL-3.0+",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "scripts": {
 	"lint": "jshint .",
 	"test-nodejs": "mocha",
@@ -33,7 +33,7 @@
 	"coverage": "istanbul cover _mocha",
 	"check": "npm run lint && npm run test && npm run coverage",
 	"travisci": "npm run check",
-	"publish-to-npm": "npm install && npm run check && npm publish"
+	"publish-to-npm": "npm install && npm run check && npm publish --access=public"
     },
     "devDependencies": {
 	"chai": "~3.2.0",

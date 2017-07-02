@@ -1,4 +1,4 @@
-# ES6 shims [![NPM Version](https://img.shields.io/npm/v/es6-shims.svg)](https://npmjs.org/package/es6-shims) [![Build Status](https://travis-ci.org/NatLibFi/es6-shims.svg)](https://travis-ci.org/NatLibFi/es6-shims) [![Test Coverage](https://codeclimate.com/github/NatLibFi/es6-shims/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/es6-shims/coverage)
+# ES6 shims [![NPM Version](https://img.shields.io/npm/v/@natlibfi/es6-shims.svg)](https://npmjs.org/package/es6-shims) [![Build Status](https://travis-ci.org/NatLibFi/es6-shims.svg)](https://travis-ci.org/NatLibFi/es6-shims) [![Test Coverage](https://codeclimate.com/github/NatLibFi/es6-shims/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/es6-shims/coverage)
 
 A collection of [ES6](https://en.wikipedia.org/wiki/ECMAScript#ES6) [shims](https://en.wikipedia.org/wiki/Shim_%28computing%29) that use native implementations if available.
 
